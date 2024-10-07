@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://yiqahupeqeri.pages.dev/sitemap.xml
